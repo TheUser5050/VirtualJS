@@ -1,0 +1,22 @@
+{
+  "name": "virtualjs",
+  "version": "1.0.0",
+  "description": "This is a 2d physics engine for games and physics based animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheUser5050/VirtualJS.git"
+  },
+  "keywords": [
+    "virual"
+  ],
+  "author": "TheUser5050",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheUser5050/VirtualJS/issues"
+  },
+  "homepage": "https://github.com/TheUser5050/VirtualJS#readme"
+}
